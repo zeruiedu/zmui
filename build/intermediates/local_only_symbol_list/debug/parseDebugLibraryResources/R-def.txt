@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+attr? zmui_backgroundColor
+attr? zmui_borderColor
+attr? zmui_borderWidth
+attr? zmui_changecolorend
+attr? zmui_changecolorstart
+attr? zmui_changecolorwidth
+attr? zmui_colorheight
+attr? zmui_fillet
+attr? zmui_itemcolorwidth
+attr? zmui_itemlineswidth
+attr? zmui_normalcolor
+attr? zmui_radius
+attr? zmui_radiusBottomLeft
+attr? zmui_radiusBottomRight
+attr? zmui_radiusTopLeft
+attr? zmui_radiusTopRight
+attr? zmui_src
+attr? zmui_textColor
+attr? zmui_textcolor
+attr? zmui_textsize
+drawable apprise_talktime_pic
+string app_name
+styleable ZMUIViewLines zmui_normalcolor zmui_changecolorstart zmui_changecolorend zmui_itemlineswidth zmui_itemcolorwidth zmui_colorheight zmui_changecolorwidth
+styleable ZMUIViewProgress zmui_textcolor zmui_textsize zmui_src
+styleable ZMView zmui_backgroundColor zmui_textColor zmui_fillet zmui_radius zmui_borderColor zmui_borderWidth zmui_radiusTopLeft zmui_radiusTopRight zmui_radiusBottomLeft zmui_radiusBottomRight

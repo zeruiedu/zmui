@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZMUILibrary</string>
+    <declare-styleable name="ZMUIViewLines">
+        <attr format="color" name="zmui_normalcolor"/>
+        <attr format="color" name="zmui_changecolorstart"/>
+        <attr format="color" name="zmui_changecolorend"/>
+        <attr format="dimension" name="zmui_itemlineswidth"/>
+        <attr format="dimension" name="zmui_itemcolorwidth"/>
+        <attr format="dimension" name="zmui_colorheight"/>
+        <attr format="dimension" name="zmui_changecolorwidth"/>
+
+    </declare-styleable>
+    <declare-styleable name="ZMUIViewProgress">
+        <attr format="color" name="zmui_textcolor"/>
+        <attr format="dimension" name="zmui_textsize"/>
+        <attr format="reference" name="zmui_src"/>
+    </declare-styleable>
+    <declare-styleable name="ZMView">
+        <attr format="color" name="zmui_backgroundColor"/>
+        <attr format="color" name="zmui_textColor"/>
+        <attr format="boolean" name="zmui_fillet"/>
+        <attr format="dimension" name="zmui_radius"/>
+        <attr format="color" name="zmui_borderColor"/>
+        <attr format="dimension" name="zmui_borderWidth"/>
+        <attr format="dimension" name="zmui_radiusTopLeft"/>
+        <attr format="dimension" name="zmui_radiusTopRight"/>
+        <attr format="dimension" name="zmui_radiusBottomLeft"/>
+        <attr format="dimension" name="zmui_radiusBottomRight"/>
+    </declare-styleable>
+</resources>
